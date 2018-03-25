@@ -1,6 +1,4 @@
-# php-exercises
-
-## Use php do some interesting exercises
+## 使用PHP做一些有趣的小实验 
 
 ### phone.php
 
