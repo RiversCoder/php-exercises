@@ -7,3 +7,6 @@
 * 再由第三方平台发送验证码到用户手机 
 
 ### sdkPhone.php
+
+* 使用 submail SDK 实现短信验证码到用户
+* 直接调用MESSAGEXsend类中的方法 实现发送短信
