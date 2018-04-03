@@ -8,5 +8,5 @@
 
 ### sdkPhone.php
 
-* 使用 submail SDK 实现短信验证码到用户
-* 直接调用MESSAGEXsend类中的方法 实现发送短信
+* 使用 submail SDK 实现把短信验证码发送到用户
+
